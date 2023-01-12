@@ -37,9 +37,9 @@ Ahora ambos miembros tenéis todo listo para empezar a desarrollar juntos.
 
 ## Segundo paso: planificación 📝
 
-Lo más importante en este punto es que decidáis qué váis a hacer. Coged papel y boli y decidid:
+Lo más importante en este punto es que decidáis qué váis a hacer. Coged papel y boli (o excalidraw o cualquier programa que os resulte cómodo) y decidid:
 
-- ¿Qué pantallas va a tener la aplicación? Dibujad un pequeño wireframe de las pantallas básicas que tendrá la app.
+- ¿Qué pantallas va a tener la aplicación? Dibujad un pequeño wireframe de las pantallas básicas que tendrá la app. 
 - ¿Qué rutas necesitáis para hacer todo el CRUD completo? Podéis consultar todos los materiales que tenéis.
 - ¿Cómo os lo podéis repartir? ¿Por dónde empezaríais cada un@?
 - Explorad los archivos que ya vienen, la estructura y haced una lista de todo lo que falta. Os ayudará en el desarrollo.
