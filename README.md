@@ -43,12 +43,32 @@ Lo más importante en este punto es que decidáis qué váis a hacer. Coged pape
 - ¿Qué rutas necesitáis para hacer todo el CRUD completo? Podéis consultar todos los materiales que tenéis.
 - ¿Cómo os lo podéis repartir? ¿Por dónde empezaríais cada un@?
 - Explorad los archivos que ya vienen, la estructura y haced una lista de todo lo que falta. Os ayudará en el desarrollo.
+- Cread un proyecto de Github, como hicimos con el juego, y cread un par de tareas. Repartirlas y asignarles uno de los miembros del equipo.
 
 ---
 
 ## Tercer paso: coding time 💻
 
 Es momento de poneros a hacer código. Lo mejor es que al principio hagáis un poco de pair programming y vayáis probando el flujo de git colaborativo hasta que veáis que tenéis el ritmo cogido y os podáis centrar en hacer cada uno vuestras rutas, vistas, estilos, etc.
+
+### 1: Rama de desarrollo
+
+Uno de los dos miembros debe crear la rama `dev`:
+```bash
+git checkout -b dev
+````
+Escribe algo de código, y después, comitead los cambios **a la rama dev**:
+```bash
+git add .
+git commit -m "explain the commit"
+git push origin dev
+```
+
+El otro miembro del equipo, debe crear la rama dev en local (porque en su ordenador aún no existe) y después, sincronizarla con la rama virtual en la que el compañero ha subido cambios. 
+```bash
+git pull origin dev
+```
+
 
 
 
