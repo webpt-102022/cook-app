@@ -21,7 +21,7 @@ Tendréis que hacer este desarrollo en equipo, usando **git colaborativo**.
 npm install
 ```
 
-- El repositorio ya tiene un modelo de receta creado y un `seed` preparado, para que ambos miembros tengan en su base de datos local algunas recetas con las que trabajar. ⚠️ Debéis tener mongo arrancado en vuestros ordenadores para que el seed funcione.
+- El repositorio ya tiene un modelo de receta creado y un `seed` preparado, para que ambos miembros tengan en su base de datos local algunas recetas con las que trabajar. ⚠️ _Debéis tener mongo arrancado en vuestros ordenadores para que el seed funcione_.
 
 Ejecutad:
 
