@@ -50,6 +50,8 @@ Lo más importante en este punto es que decidáis qué váis a hacer. Coged pape
 
 Es momento de poneros a hacer código. Lo mejor es que al principio hagáis un poco de pair programming y vayáis probando el flujo de git colaborativo hasta que veáis que tenéis el ritmo cogido y os podáis centrar en hacer cada uno vuestras rutas, vistas, estilos, etc.
 
+Añado esta linea desde dev
+
 
 
 
